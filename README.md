@@ -8,3 +8,11 @@ Feel free to give feedback and ideas to add!
 
 ## Download can be found on the releases!
 Make sure to download the InputDisplay.zip and not the Source Code!
+
+# Verified Controllers
+- DualShock 2
+- DualShock 3
+- DualShock 4
+- xBox One 
+
+  

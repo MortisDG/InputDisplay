@@ -10,7 +10,7 @@ Feel free to give feedback and ideas to add!
 Make sure to download the InputDisplay.zip and not the Source Code!
 
 # Verified Controllers
-- DualShock 2 (Works but has bugs, will be fixed.)
+- DualShock 2 
 - DualShock 3
 - DualShock 4
 - xBox One 
